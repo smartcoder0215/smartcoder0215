@@ -17,6 +17,6 @@ If you have any unresolved problem in JavaScript frameworks and Cesium community
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
 
-// ### **☎️** How to reach me
+<-- ### **☎️** How to reach me -->
 
-// - Email: smartcoder0215@gmail.com
+<-- - Email: smartcoder0215@gmail.com -->
