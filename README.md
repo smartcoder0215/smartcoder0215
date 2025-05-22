@@ -13,7 +13,7 @@ As a Certified Fullstack Developer, I'm mainly working on the overlapped area of
 If you have any unresolved problem in JavaScript frameworks and Cesium community, do not hesitate to contact me.
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smartcoder0215&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3DGISKing&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcoder0215&layout=compact)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
 
