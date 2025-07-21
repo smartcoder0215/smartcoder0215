@@ -1,8 +1,5 @@
 <h1 align='center'> 🌏 <i>Welcome to the smart coding world!</i></h1>
 
-<a href="https://verified.sertifier.com/en/profile/154682273640/" target="_blank">
-    <img src="certified-dev-banner-light-lg_01.png" alt="Cesium Certificate" width="200" style ="float: right"/>
-</a> 
 <br/>
 
 As a Certified Fullstack Developer, I'm mainly working on the overlapped area of Web and GIS worlds, specially JavaScript frameworks, Ruby on Rails and Python. <br>
